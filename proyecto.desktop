@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MBOT MEGA AMG
+Comment=Pamela H. Victor M. Angel E. Diego T.
+Icon=/home/josd/mbot.jpg
+Exec=/home/josd/inicio_res.sh
+Type=Application
+Encoding=UTF-8
+Terminal=false
